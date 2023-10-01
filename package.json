@@ -1,0 +1,13 @@
+{
+	"name": "com.ziplaw.cs-dispatcher-feature",
+	"version": "1.0.0",
+	"displayName": "Compute Shader Dispatcher Render Feature",
+	"description": "Adds a Render Feature to Dispatch a Compute Shader that saves its result into a Texture ",
+   "keywords": [
+	  "URP", "Compute Shaders", "Renderer Feature"
+	],
+	"author": {
+	  "name": "Ziplaw",
+	  "url": "https://twitter.com/RealZiplaw"
+	}
+  }
